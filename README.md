@@ -1,6 +1,6 @@
 ## What are this? 
 
-Some scrips I put together, mostly copying things from Luke Smith git Voidrice (https://github.com/LukeSmithxyz/voidrice), that when called from i3-status.sh produces the text to be used in my i3status bar. 
+Some scrips I put together, mostly copying things from Luke Smith VOIDRICE repo (https://github.com/LukeSmithxyz/voidrice), that when called from i3-status.sh produces the text to be used in my i3status bar. 
 
 
 just put this in your i3 config file (`~/.config/i3/config`)
